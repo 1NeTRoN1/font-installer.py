@@ -12,7 +12,7 @@ Bu script, **Archman Linux** kullanıcıları için tek komutla 100+ profesyonel
 
 **🚀 Tek Komutla Kurulum:**
 ```bash
-sudo python3 font_installer.py
+sudo python3 font_installer2.py
 ```
 
 **🛠 Teknik Detaylar:**
@@ -58,12 +58,12 @@ GNU General Public License v3.0
 ```markdown
 # Archman Font Installer 🎨
 
-![Pegasus Logo](https://i.imgur.com/...)
+![Pegasus Logo](https://img.freepik.com/premium-vector/pegasus-esport-mascot-logo-design_562052-56.jpg?w=740)
 
 ## 📦 Kurulum
 ```bash
-curl -O https://raw.githubusercontent.com/.../font_installer.py
-sudo python3 font_installer.py
+curl -O https://raw.githubusercontent.com/.../font_installer2.py
+sudo python3 font_installer2.py
 ```
 
 ## 🌟 Özellikler
